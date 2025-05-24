@@ -1,1 +1,0 @@
-# Electrostatic-Force-Numerical-Analysis
